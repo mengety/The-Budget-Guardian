@@ -1,9 +1,3 @@
-To make your GitHub project look professional for a Data Science role, your **README.md** should focus on the **Business Problem**, the **Technical Solution**, and the **Data Insights**.
-
-Here is a high-quality README tailored to the final version of your code.
-
----
-
 # 🛡️ Smart Audit & ROI Engine
 
 ## 📌 Project Overview
@@ -70,8 +64,5 @@ python main.py
 
 ---
 
-### 💡 Pro-Tip for your GitHub:
 
-When you upload this, make sure your **main.py** file is at the root level. Recruiters love to see a clean folder structure!
 
-**Does this README look like it tells the story of your hard work correctly?** You are now ready to commit this to your GitHub profile!
