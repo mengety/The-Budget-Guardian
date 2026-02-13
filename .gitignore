@@ -1,0 +1,15 @@
+# Python bytecode (created when you run the script)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment folders
+venv/
+env/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Any local data files you might create later
+*.log
