@@ -40,6 +40,7 @@ def check_transaction_risk(category, amount, threshold):
 
 This is Phase 1 of my journey. My plan to scale this project includes:
 
+
 * [ ] **Phase 2:** Integrate Python's `csv` module to handle real-world data exports.
 * [ ] **Phase 3:** Transition to **Pandas** for advanced exploratory data analysis (EDA).
 * [ ] **Phase 4:** Use **Matplotlib/Seaborn** to visualize spending trends over time.
